@@ -1,0 +1,6 @@
+# Main config for the GenesisRandomization plugin
+
+# Tells the user what their origin is upon joining
+tell-users-origin: false
+# Tells the console what the users origin is upon joining
+tell-console-origin: false
